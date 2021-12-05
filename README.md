@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harender-singh-chauhan
-- 👀 I’m interested in Machine learning and web development(full stack)
-- 🌱 I’m currently learning Data structures and Algorithms and machine learning. 
+- 👀 I’m interested in Machine learning, deep learning and web development(full stack)
+- 🌱 I’m currently learning Data structures and Algorithms , machine learning and deep learning. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - > email- harendersingh7896@gmail.com
 
